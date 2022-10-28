@@ -1,0 +1,33 @@
+body {
+  font-style: 25px;
+  font-family: fantasy;
+}
+
+table {
+  display: flex;
+  border-radius: 5px;
+  border-collapse: collapse;
+  text-align: left;
+  justify-content: center;
+  align-content: center;
+  margin: 10em;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+th {
+  padding: 10px 10 px;
+}
+
+td {
+  padding: 10px 10px;
+}
+
+.white {
+  background-color: #f2f2f2;
+  color: black;
+}
+
